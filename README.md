@@ -5,7 +5,7 @@ object recoginition application for the visually impaired.
 
 how to run the project:
 
-1. run the yolo file and recognise the objects in the video.
+1. run the app.py file in yolo folder and detect the objects in the video frame.
 2. send the processed data to firebase.
 3. collect the data from the firebase to your android app.
 4. convert text to speech and give speech output to the user.
