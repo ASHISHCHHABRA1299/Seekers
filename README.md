@@ -1,4 +1,5 @@
 # Seekers
+BLINDFOLD
 object recoginition application for the visually impaired. 
 
 
